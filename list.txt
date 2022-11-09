@@ -3,3 +3,6 @@ List of fruit
 Apple
 Grappes
 Black Berry
+orange
+mandarine
+mango
