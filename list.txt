@@ -1,5 +1,6 @@
 List of fruit
 
+Melon
 Apple
 Grappes
 Black Berry
@@ -7,3 +8,4 @@ orange
 mandarine
 mango
 papaya
+cherry
